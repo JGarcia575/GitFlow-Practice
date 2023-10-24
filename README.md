@@ -1,6 +1,6 @@
-###GitFlow
+### GitFlow
 -----------------------
-##Comandos Git
+## Comandos Git
 -------------------
 * Crear un repositorio con el comando git init.
 * Agregar los cambios al staging area con el comando git add o git add . 
