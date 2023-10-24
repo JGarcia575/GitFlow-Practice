@@ -10,3 +10,13 @@
     - git remote add origin https://github.com/JGarcia575/GitFlow-Practice.git.
     - git branch -M main.
     - git push -u origin main.
+* Crear una rama con el comando git checkout -b develop.
+* Apretar en subir cambios para que la rama develop también se suba al repositorio remoto. 
+* O utilizar el comando git push -u origin develop (el nombre de la rama).
+* Crear la rama feature, porque según Gitflow una rama por cada funcionalidad, con el comando
+git checkout -b  feature/say-hello.
+* Subir la rama feature/say-hello.
+* Luego ejecutar los comandos: 
+    - git add .
+    - git commit -m "feat: se ha agregado la función  sayHello". Esto es una buena práctica.  
+

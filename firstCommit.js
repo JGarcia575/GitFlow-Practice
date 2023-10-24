@@ -4,3 +4,7 @@ function saludar() {
 
 saludar();
 
+function sayHello() {
+    console.log("Hola");
+}
+
