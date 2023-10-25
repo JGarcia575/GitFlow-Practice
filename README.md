@@ -30,3 +30,7 @@ git checkout -b  feature/say-hello.
     - git add . 
     - git commit -m "feat: añadida la funcionalidad say-bye".
     - git push.
+* Crear la rama release/1.0.0:
+    - el primer numero ---> cambios muy grandes, rompe con al compatibilidad entre versiones.
+    - el segundo numero ---> minor, nuevas funcionalidades, no rompe la compatibilidad con lo que se ha creado antes.
+    - hotflix --> cambios rápidos.
