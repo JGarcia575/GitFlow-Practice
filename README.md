@@ -22,4 +22,5 @@ git checkout -b  feature/say-hello.
 
 * Ya con la rama feature en el repositorio remoto, podemos seguir añadiendo cambios a esa rama con los comandos:
     - git add .
-    - git commit -m "feat: se ha añadido más contenido al mensaje.
+    - git commit -m "feat: se ha añadido más contenido al mensaje".
+    - git push.
