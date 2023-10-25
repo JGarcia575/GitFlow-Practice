@@ -34,3 +34,4 @@ git checkout -b  feature/say-hello.
     - el primer numero ---> cambios muy grandes, rompe con al compatibilidad entre versiones.
     - el segundo numero ---> minor, nuevas funcionalidades, no rompe la compatibilidad con lo que se ha creado antes.
     - hotflix --> cambios rápidos.
+* Para agregar una tag git tag -a -m "versión 1.0.0 lista"
