@@ -8,3 +8,6 @@ function sayHello() {
     console.log("Hola, ¿qué tal?");
 }
 
+function sayBye() {
+    console.log("¡Chaú!");
+}
