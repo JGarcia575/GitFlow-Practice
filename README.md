@@ -35,3 +35,5 @@ git checkout -b  feature/say-hello.
     - el segundo numero ---> minor, nuevas funcionalidades, no rompe la compatibilidad con lo que se ha creado antes.
     - hotflix --> cambios rápidos.
 * Para agregar una tag git tag -a -m "versión 1.0.0 lista"
+* Luego subir la etiqueta.
+* Crear la rama hotfix a partir de la rama main con el comando git checkout -b hotfix.
