@@ -25,3 +25,8 @@ git checkout -b  feature/say-hello.
     - git commit -m "feat: se ha añadido más contenido al mensaje".
     - git push.
 * Fusionar la rama feature/say-hello con la rama develop con el comando git merge --no-ff.
+* Luego crear otra rama feature/say-bye con el comando git checkout -b  feature/say-bye.
+* Subir la rama al repositorio remoto y luego:
+    - git add . 
+    - git commit -m "feat: añadida la funcionalidad say-bye".
+    - git push.
