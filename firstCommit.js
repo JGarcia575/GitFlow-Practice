@@ -5,6 +5,6 @@ function saludar() {
 saludar();
 
 function sayHello() {
-    console.log("Hola");
+    console.log("Hola, ¿qué tal?");
 }
 
