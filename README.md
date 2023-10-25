@@ -24,3 +24,4 @@ git checkout -b  feature/say-hello.
     - git add .
     - git commit -m "feat: se ha añadido más contenido al mensaje".
     - git push.
+* Fusionar la rama feature/say-hello con la rama develop con el comando git merge --no-ff.
