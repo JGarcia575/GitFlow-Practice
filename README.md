@@ -37,3 +37,4 @@ git checkout -b  feature/say-hello.
 * Para agregar una tag git tag -a -m "versión 1.0.0 lista"
 * Luego subir la etiqueta.
 * Crear la rama hotfix a partir de la rama main con el comando git checkout -b hotfix.
+* Hacer la modificación. En este caso cambiar la función say-bye.
